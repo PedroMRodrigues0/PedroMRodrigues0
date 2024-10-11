@@ -31,6 +31,15 @@ I'm looking for:
 
 ---
 
+## 📂 My Projects
+Here are some of the projects I've worked on:
+
+- **[CookingApp](https://github.com/PedroMRodrigues0/Cooking_App)**: CookingApp is a dynamic application designed to simplify the often overwhelming task of deciding what to cook. Users can effortlessly save their daily recipes, including photos,                                                                       ingredients, and preparation methods. With a unique feature that allows users to randomly generate a recipe, CookingApp transforms meal planning into a fun and stress-free                                                                            experience, making it easier to explore new dishes and enjoy cooking every day.
+
+Feel free to check them out!
+
+---
+
 ## 📫 How to Reach Me
 Feel free to connect with me:
 - Email: [pedromgrodrigues0@gmail.com](mailto:pedromgrodrigues0@gmail.com)
