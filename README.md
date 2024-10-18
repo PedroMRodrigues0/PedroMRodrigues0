@@ -19,7 +19,6 @@ I'm currently learning:
 - React Native
 - Next.js
 - Node.js
-- Cloud Computing
 - DevOps Practices
 
 ---
